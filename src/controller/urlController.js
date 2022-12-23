@@ -6,7 +6,6 @@ const { GET_ASYNC, SET_ASYNC } = require('../Redis/redis')
 //=================================checking request body=====================================================
 const checkInputsPresent = (value) => { return (Object.keys(value).length > 0) }
 
-
 //=========validation for empty request======================================================================
 const isValid = function (value) {
     if (typeof value == "number" || typeof value == 'undefined' || typeof value == 'null') { return false }
