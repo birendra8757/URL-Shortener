@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exactshubham/project-URL-Shortner.git"
+    "url": "git+https://github.com/birendra8757/URL-Shortener.git"
   },
-  "author": "Shubham Chaturvedi, Abhinav Pratap Singh, Misbah Kanwal, Soniya",
+  "author": "Shubham Chaturvedi, Abhinav Pratap Singh, Birendra kumar sah, Soniya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/exactshubham/project-URL-Shortner/issues"
+    "url": "https://github.com/birendra8757/URL-Shortener/issues"
   },
-  "homepage": "https://github.com/exactshubham/project-URL-Shortner#readme",
+  "homepage": "https://github.com/birendra8757/URL-Shortener#readme",
   "dependencies": {
     "axios": "^1.2.1",
     "express": "^4.18.2",
